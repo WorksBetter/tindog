@@ -1,3 +1,1 @@
-# Tindog
-
-A website based on Tinder, but for Dogs.
+TinDog Starting Files
